@@ -1,2 +1,7 @@
 # hello-world
-First repository
+
+Hi,
+
+I am Akshay Jain, Welcome to hello-world repository.
+
+
